@@ -1,2 +1,2 @@
-# DS_testing
-First DS template
+# Игры "угадай число"
+Два варианта и один jupiter-ноутбук
